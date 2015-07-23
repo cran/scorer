@@ -1,0 +1,16 @@
+6f985e67b1e021878d5bd3666ebbd1f2 *DESCRIPTION
+a7eededba9795247019b813c8be54c65 *LICENSE
+455f15bdecb0ac1001c23f027a881b51 *NAMESPACE
+6e3b4be0d0457ae782859e6504e37306 *R/errors.R
+ceff9c238d740fe406b4ddb7a0805ff4 *R/scorer.R
+f0b75eee64a3a275d114f1a1d636a75e *README.md
+2a007e4ded2b80ad43deb7c49a9ff9bf *man/ae.Rd
+bcfb23c60b590aaa963227715f349897 *man/ape.Rd
+983b8799648c314011f25549f0f24918 *man/e.Rd
+c4bd7de25d6acc564056847751d8235a *man/mae.Rd
+ada2dc9f7365ec82c1ecaf33c269e7fb *man/mape.Rd
+84ebed1666b38efbf17a828d8bc2b7c1 *man/pe.Rd
+f22ebe594ac27f897768452ff4ced645 *man/rmse.Rd
+48737709bdccf4e09aeb3e7eb8edeee8 *man/scorer.Rd
+f45ca466960864bbe0dcab1d1a9aae90 *tests/testthat.R
+10b90d7d84bbd6cb7d61437c24cae9ce *tests/testthat/test-e.R
